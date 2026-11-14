@@ -1,3 +1,5 @@
+> **Moved to uno-lab.** This project now lives in the `strata/` folder of [noknowscode/uno-lab](https://github.com/noknowscode/uno-lab/tree/main/strata) (private). This repository is archived and kept for its history.
+
 # Strata
 
 An Uno Platform desktop app that shows a card built from three nested templated controls (`Surface`, `StateLayer`, `Card`), each handling one concern. A slider tilts the layers apart into an exploded stack, and two further sections show how style precedence and resource scopes resolve against the layered template.
